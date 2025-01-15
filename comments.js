@@ -1,4 +1,4 @@
-// Create a Web Server code that will handle the following requests:
+// Create a Web Server
 // GET /comments - returns a list of comments
 // POST /comments - create a new comment
 // PUT /comments/:id - update a comment
